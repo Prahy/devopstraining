@@ -1,6 +1,8 @@
 print("hello world")
 print('this is local repo')
+print('to get conflict')
 print('practice hard')
+print('confuse')
 print("to understand conflict")
 print('this line is added in branch ')
 
